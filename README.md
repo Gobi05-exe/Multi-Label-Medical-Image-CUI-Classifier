@@ -107,14 +107,20 @@ See `requirements.txt` for detailed dependencies including:
 
 - LBP computation uses `skimage.feature.local_binary_pattern`
 - Ensure CUI class labels match across training and inference
-- GradCAM is applied to the last attention layer by default
 
 ## Example Use Case
 
 This setup is ideal for:
 - Radiology image analysis
 - Medical concept extraction
-- Research in multi-label image classification with explainability
+
+## Sample inference results
+
+![Screenshot from 2025-06-24 22-43-00](https://github.com/user-attachments/assets/842abf20-2377-487e-ab7b-803dc3bddc8b)
+
+![Screenshot from 2025-06-24 22-43-13](https://github.com/user-attachments/assets/fe2921d9-7a05-42e2-a1da-0bf3cdd27204)
+
+![Screenshot from 2025-06-24 22-43-33](https://github.com/user-attachments/assets/cb89e756-2319-48ee-82b3-5c650c3937ec)
 
 ## License
 
