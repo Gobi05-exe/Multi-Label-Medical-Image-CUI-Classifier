@@ -1,5 +1,5 @@
 
-# MedicalViT - Multi-Label Medical Image CUI Classifier
+# Multi-Label Medical Image CUI Classifier
 
 This project implements a Vision Transformer (ViT) model for **multi-label classification of medical images**, incorporating **4-channel inputs (RGB + LBP)** and trained for **Concept Unique Identifier (CUI)** detection.
 
