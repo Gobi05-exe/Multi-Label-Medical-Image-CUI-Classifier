@@ -81,7 +81,6 @@ This script:
 - Loads the trained ViT model
 - Runs batch inference on test parquet files
 - Saves predictions as `.csv`
-- Optionally generates GradCAM visualizations
 
 ## Features
 
