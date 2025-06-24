@@ -132,4 +132,3 @@ Built using:
 - [Hugging Face Transformers](https://huggingface.co/)
 - [timm Vision Library](https://github.com/rwightman/pytorch-image-models)
 - [PyTorch](https://pytorch.org/)
-- [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam)
