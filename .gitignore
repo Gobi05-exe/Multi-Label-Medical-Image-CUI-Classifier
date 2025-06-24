@@ -1,0 +1,34 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter/IPython checkpoints
+.ipynb_checkpoints/
+
+# PyTorch model checkpoints
+*.pt
+*.pth
+*.safetensors
+
+# Dataset files
+dataset/
+data/
+outputs/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+
+# VSCode settings (optional)
+.vscode/
+
+# Hugging Face token cache
+~/.huggingface/
